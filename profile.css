@@ -1,0 +1,31 @@
+body {
+  background-color:rgb(118, 169, 181);
+  padding: 30px;
+  color:rgb(40, 27, 125);
+  margin: 0px auto;  
+  
+}
+.button {
+  margin: 0px auto;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 10px 35px;
+  color: #522687 !important;
+  border-radius: 10px;
+  background: #1d9b67;
+  border: 1px solid #191a1b;
+  transition: 0.4s;
+}
+.button:hover {
+  background: #8e2121;
+}
+h3{
+  font-size: 30px;
+  color:rgb(186, 31, 34);
+}
+.div{
+  font-size: 30px;
+}
+
+  
+
